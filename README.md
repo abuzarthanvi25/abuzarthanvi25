@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Muhammad Abuzar Thanvi, a full-stack JavaScript wizard 🧙‍♂️ crafting code spells at Technyx Systems since Nov 2022 🛠️✨ Turning ideas into digital reality, one semicolon at a time! 🚀</div>  
+### <div align="center">**Hi There** 👋, I'm Muhammad Abuzar Thanvi, a full-stack JavaScript wizard 🧙‍♂️ crafting code spells at Technyx Systems since Nov 2022 🛠️✨ Turning ideas into digital reality, one semicolon at a time! 🚀</div>  
   
 
 - 🔭 I’m currently working on multiple miscellaneous projects
@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I write JavaScript so much that sometimes I accidentally put semicolons at the end of my grocery list! 🛒;
 
 
-- 🔗 For more details - https://abuzarthanvi25.github.io/  
+- 🔗 For more details visit my website - https://abuzarthanvi25.github.io/  
   
 
 <br/>  
